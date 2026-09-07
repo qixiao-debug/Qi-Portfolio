@@ -1,0 +1,6 @@
+{
+  "name": "Qi Xiao Portfolio",
+  "description": "Modern, data-driven personal portfolio website for Qi Xiao, a Digital Marketing and Business Analytics professional specializing in SEO, CRO, Growth Strategy, and Data Visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
