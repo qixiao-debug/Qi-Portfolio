@@ -6,7 +6,7 @@ import {defineConfig, loadEnv} from 'vite';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: '/7qi_portfolio/',
+    base: '/Qi-Portfolio/',
     
     plugins: [react(), tailwindcss()],
     define: {
